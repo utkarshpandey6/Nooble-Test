@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nooble</string>
+
+    <string name="com_spotify_sdk_redirect_scheme">http</string>
+    <string name="com_spotify_sdk_redirect_host">nooble.example.com</string>
+
+</resources>
